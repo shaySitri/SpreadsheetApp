@@ -1,0 +1,30 @@
+C:\Users\shays\Documents\לימודים\סמ ד\מבוא למערכות הפעלה\ass3\Simulator\Simulator\bin\Debug\net6.0\Simulator.exe
+C:\Users\shays\Documents\לימודים\סמ ד\מבוא למערכות הפעלה\ass3\Simulator\Simulator\bin\Debug\net6.0\Simulator.deps.json
+C:\Users\shays\Documents\לימודים\סמ ד\מבוא למערכות הפעלה\ass3\Simulator\Simulator\bin\Debug\net6.0\Simulator.runtimeconfig.json
+C:\Users\shays\Documents\לימודים\סמ ד\מבוא למערכות הפעלה\ass3\Simulator\Simulator\bin\Debug\net6.0\Simulator.dll
+C:\Users\shays\Documents\לימודים\סמ ד\מבוא למערכות הפעלה\ass3\Simulator\Simulator\bin\Debug\net6.0\Simulator.pdb
+C:\Users\shays\Documents\לימודים\סמ ד\מבוא למערכות הפעלה\ass3\Simulator\Simulator\obj\Debug\net6.0\Simulator.csproj.AssemblyReference.cache
+C:\Users\shays\Documents\לימודים\סמ ד\מבוא למערכות הפעלה\ass3\Simulator\Simulator\obj\Debug\net6.0\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shays\Documents\לימודים\סמ ד\מבוא למערכות הפעלה\ass3\Simulator\Simulator\obj\Debug\net6.0\Simulator.AssemblyInfoInputs.cache
+C:\Users\shays\Documents\לימודים\סמ ד\מבוא למערכות הפעלה\ass3\Simulator\Simulator\obj\Debug\net6.0\Simulator.AssemblyInfo.cs
+C:\Users\shays\Documents\לימודים\סמ ד\מבוא למערכות הפעלה\ass3\Simulator\Simulator\obj\Debug\net6.0\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\shays\Documents\לימודים\סמ ד\מבוא למערכות הפעלה\ass3\Simulator\Simulator\obj\Debug\net6.0\Simulator.dll
+C:\Users\shays\Documents\לימודים\סמ ד\מבוא למערכות הפעלה\ass3\Simulator\Simulator\obj\Debug\net6.0\refint\Simulator.dll
+C:\Users\shays\Documents\לימודים\סמ ד\מבוא למערכות הפעלה\ass3\Simulator\Simulator\obj\Debug\net6.0\Simulator.pdb
+C:\Users\shays\Documents\לימודים\סמ ד\מבוא למערכות הפעלה\ass3\Simulator\Simulator\obj\Debug\net6.0\Simulator.genruntimeconfig.cache
+C:\Users\shays\Documents\לימודים\סמ ד\מבוא למערכות הפעלה\ass3\Simulator\Simulator\obj\Debug\net6.0\ref\Simulator.dll
+C:\Users\Owner\Desktop\Simulator\Simulator\bin\Debug\net6.0\Simulator.exe
+C:\Users\Owner\Desktop\Simulator\Simulator\bin\Debug\net6.0\Simulator.deps.json
+C:\Users\Owner\Desktop\Simulator\Simulator\bin\Debug\net6.0\Simulator.runtimeconfig.json
+C:\Users\Owner\Desktop\Simulator\Simulator\bin\Debug\net6.0\Simulator.dll
+C:\Users\Owner\Desktop\Simulator\Simulator\bin\Debug\net6.0\Simulator.pdb
+C:\Users\Owner\Desktop\Simulator\Simulator\obj\Debug\net6.0\Simulator.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Simulator\Simulator\obj\Debug\net6.0\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Simulator\Simulator\obj\Debug\net6.0\Simulator.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Simulator\Simulator\obj\Debug\net6.0\Simulator.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Simulator\Simulator\obj\Debug\net6.0\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Simulator\Simulator\obj\Debug\net6.0\Simulator.dll
+C:\Users\Owner\Desktop\Simulator\Simulator\obj\Debug\net6.0\refint\Simulator.dll
+C:\Users\Owner\Desktop\Simulator\Simulator\obj\Debug\net6.0\Simulator.pdb
+C:\Users\Owner\Desktop\Simulator\Simulator\obj\Debug\net6.0\Simulator.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Simulator\Simulator\obj\Debug\net6.0\ref\Simulator.dll
