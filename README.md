@@ -1,7 +1,3 @@
-Sure! Here’s a README with emojis for a more engaging presentation:
-
----
-
 # 📊 Spreadsheet Simulator & GUI Application
 
 ## Overview
