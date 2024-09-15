@@ -1,0 +1,84 @@
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.exe
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.deps.json
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.runtimeconfig.json
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.dll
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.pdb
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form1.resources
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.AssemblyInfo.cs
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.dll
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\refint\SpreadsheetApp.dll
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.pdb
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.genruntimeconfig.cache
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\ref\SpreadsheetApp.dll
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form2.resources
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form3.resources
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form4.resources
+C:\Users\Owner\source\repos\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form5.resources
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.exe
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.deps.json
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.runtimeconfig.json
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.dll
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.pdb
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.csproj.AssemblyReference.cache
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form1.resources
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form2.resources
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form3.resources
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form4.resources
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form5.resources
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.AssemblyInfoInputs.cache
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.AssemblyInfo.cs
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.dll
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\refint\SpreadsheetApp.dll
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.pdb
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.genruntimeconfig.cache
+C:\Users\shays\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\ref\SpreadsheetApp.dll
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.exe
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.deps.json
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.runtimeconfig.json
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.dll
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.pdb
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form1.resources
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form2.resources
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form3.resources
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form4.resources
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form5.resources
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.AssemblyInfo.cs
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.dll
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\refint\SpreadsheetApp.dll
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.pdb
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.genruntimeconfig.cache
+C:\Users\Owner\Desktop\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\ref\SpreadsheetApp.dll
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.exe
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.deps.json
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.runtimeconfig.json
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.dll
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\bin\Debug\net6.0-windows\SpreadsheetApp.pdb
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.csproj.AssemblyReference.cache
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form1.resources
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form2.resources
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form3.resources
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form4.resources
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.Form5.resources
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.csproj.GenerateResource.cache
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.AssemblyInfoInputs.cache
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.AssemblyInfo.cs
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.csproj.CoreCompileInputs.cache
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.dll
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\refint\SpreadsheetApp.dll
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.pdb
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\SpreadsheetApp.genruntimeconfig.cache
+C:\Users\shays\Documents\לימודים\שנה ב\סמ ד\מבוא למערכות הפעלה\assigment3\SpreadsheetApp\SpreadsheetApp\obj\Debug\net6.0-windows\ref\SpreadsheetApp.dll
